@@ -1,5 +1,5 @@
 //a modification for Koukou Seikatsu
-$gameMessage.add("init successfully loaded from\nhttps://raw.githubusercontent.com/furukawahitori/prosciutto/refs/heads/main/load.js");
+$gameMessage.add("init successfully loaded from\nhttps://raw.githubusercontent.com/furukawahitori/prosciutto/refs\n/heads/main/load.js");
 $gameParty.addActor(2);
 $gameParty.addActor(3);
 $gameParty.addActor(4);
